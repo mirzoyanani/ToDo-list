@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  padding: 20px;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+align-items: flex-start;
+background-color: rgb(235, 235, 235);
+}

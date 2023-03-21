@@ -1,0 +1,32 @@
+.addToDoInput{
+    width: 300px;
+    margin: 20px    ;
+}
+li{
+    list-style-type: none;
+    margin: 10px    ;
+    
+}
+.tasksList{
+    position: relative;
+    border: 2px solid;
+    padding: 20px;
+}
+.ckeckboxInput{
+    position: absolute;
+    right:10px;
+}
+.InputValue{
+    margin-left: 10px;
+}
+.count{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-weight: bolder;
+    font-size:30px;
+}
+.description{
+    text-align: center;
+}
